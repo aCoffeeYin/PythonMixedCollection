@@ -1,4 +1,4 @@
-﻿#获得股票数据
+#获得股票数据
 
 import json
 import re
